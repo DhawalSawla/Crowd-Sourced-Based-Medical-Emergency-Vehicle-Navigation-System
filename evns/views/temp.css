@@ -1,0 +1,59 @@
+		@media (max-width: 875px) {
+			.FB_UI_Dialog {
+			  width: 300px !important;
+		}
+
+		#getinvited
+		{
+		margin-top: 3px;
+		width: 115px;
+		}
+
+		#social_bar img
+		{
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+
+		.header h3
+		{
+			color: white;
+		}
+
+		.header h3,.counter_block h3, .social_bar h3
+		{
+			margin-top: 13px;
+			margin-bottom: 6px;
+			font-weight: normal;
+			text-transform: uppercase;
+			font-size: 12px
+
+		}
+		.counter_block h3
+		{
+			text-align: center;
+		}
+
+		.header .right h3, .social_bar h3
+		{
+			margin-bottom: 14px;
+			color: white;
+		}
+
+		.header .logo
+		{
+			position: absolute;
+			width:100%;
+			top:5px;
+			left: 0;
+			z-index: -5;
+		}
+
+
+#social_bar1
+		{
+			position: fixed;
+			top: 80px;
+			left: 300px;
+			right: 100px;
+		}
